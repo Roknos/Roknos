@@ -3,6 +3,8 @@
 Je fais des trucs, 
 je manipule principalement, Perl / HTML / CSS / JS
 
+La majorité de mes projets sont en privé, chezchez pas, il n'y a pas grand chose par ici
+
 <!--
 **Roknos/Roknos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
